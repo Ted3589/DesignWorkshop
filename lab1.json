@@ -1,0 +1,30 @@
+{
+    "url": "http://localhost:3000/api1/1234",
+    "response": {
+      "id": "тысяча двести тридцать четыре"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "http://localhost:3000/api1/d/1/2/1",
+    "response": {
+      "x1": -1,
+      "x2": "Корня x2 нету"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "http://localhost:3000/api1/date=/25.03.2020",
+    "response": {
+      "date": "среда"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "http://localhost:3000/api1/fi/7",
+    "response": {
+      "div": "13"
+    },
+    "method": "GET"
+  } 
+]
